@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Website will allow administrator created users to create and search for work requests, marking them as complete when the work is finished. This website will be directed toward the needs of a small University or college, focusing on cutting costs with a self-owned application and solving issues that cannot be resolved with a web application not specifically created for their needs. 
+WRAAM (Work Request and Asset Manager) will allow administrator created users to create and search for work requests, marking them as complete when the work is finished. This website will be directed toward the needs of a small University or college, focusing on cutting costs with a self-owned application and solving issues that cannot be resolved with a web application not specifically created for their needs. 
 
 ### Features
 -**Save and Edit Work Requests:** User should be able to create and edit work requests so that other users can view what work needs to be done and get updated information.
@@ -42,6 +42,6 @@ I will have to learn how to create administrator accounts that create and edit u
 ### GitHub
 [Liftoff Repository](https://github.com/amanda7641/liftoff-assignments)
 
-[Project Repository](https://github.com/amanda7641/maximo)
+[Project Repository](https://github.com/amanda7641/WRAAM)
 
 
