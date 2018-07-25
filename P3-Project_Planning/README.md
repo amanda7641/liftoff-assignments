@@ -9,7 +9,17 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 ![Login WireFrame](login.jpg)
+![Navbar WireFrame](navbar.jpg)
+![Add Work Request WireFrame](add_work_request.jpg)
+![Work Request Index Table](work_request_table.jpg)
+![View a Work Request](view_work_request.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Story Mapping/User Story](https://www.pivotaltracker.com/n/projects/2184785)
+
+### GitHub
+
+[Project Repository](https://github.com/amanda7641/WRAAM)
+
+
