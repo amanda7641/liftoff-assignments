@@ -13,6 +13,6 @@ For this assignment you will need to upload your resume, and provide links to yo
 [LinkedIn account](https://www.linkedin.com/in/amanda-owens-b887b36a/)
 
 ### Resume
-![Resume](/Resume.pdf)
+![Resume](Resume.pdf)
 
 
